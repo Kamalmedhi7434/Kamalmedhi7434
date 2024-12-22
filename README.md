@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Kamalmedhi7434
-- 👀 I’m interested in machine learning,Nextjs,React
-- 🌱 I’m currently learning machine learning 
-- 💞️ 
-- 📫 How to reach me ?just search that user name in linkdn
+🌟 Hi there! I'm kamal  🌟
+🔗 Turning ideas into code and dreams into projects.
+💻 Tech Enthusiast | IoT Developer | AI Learner
+🚀 Passionate about creating intelligent systems, IoT devices, and impactful software solutions.
 
-<!---
-Kamalmedhi7434/Kamalmedhi7434 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 What I Do:
+
+Build innovative IoT prototypes 🎛️
+Explore the intersection of AI and hardware 🤖
+Develop user-centric web and mobile apps 🌐📱
+
+🌱 Always Learning:
+
+AI-powered communication tools 🧠
+Efficient energy systems 🌱
+Real-time web technologies 🌍
+🌟 "Code not for the present but for the future."
+📬 Reach out: [[https://www.linkedin.com/in/kamal-m-a9498a24a/]]
+
