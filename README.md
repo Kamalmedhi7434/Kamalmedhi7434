@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kamalmedhi7434
-- 👀 I’m interested in Ethical Hacking
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in machine learning,Nextjs,React
+- 🌱 I’m currently learning machine learning 
+- 💞️ 
+- 📫 How to reach me ?just search that user name in linkdn
 
 <!---
 Kamalmedhi7434/Kamalmedhi7434 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
